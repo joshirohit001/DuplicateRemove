@@ -6,6 +6,7 @@ namespace ReverseAnyDigitNumber
     {
         static void Main(string[] args)
         {
+            //Reverse the any input digit:-
             Console.WriteLine("Enter a No. to reverse");
             int Number = Convert.ToInt32(Console.ReadLine());
             int Reverse = 0;
